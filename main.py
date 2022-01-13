@@ -356,7 +356,7 @@ def test_run():
 def verify(model, detection_threshold, verification_threshold):
     # Build results array
     results = []
-    # for image in os.listdir(os.path.join('application_data', 'verification_images')):
+    # for image in os.listdir(os.path.join('img_verification, 'validation_image')):
 
 
 
