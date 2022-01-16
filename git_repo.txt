@@ -1,1 +1,4 @@
 https://github.com/GamaCatalin/FaceMatcher
+
+
+repository is now public, should have to problems reading from it
